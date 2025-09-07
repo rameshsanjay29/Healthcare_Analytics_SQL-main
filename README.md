@@ -1,1 +1,0 @@
-# Healthcare_Analytics_SQL-main
